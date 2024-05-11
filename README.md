@@ -49,10 +49,6 @@
 
 ###
 
-<h3>👩‍💻 This is my portfolio :- https://ranjanabhi07.github.io/Portfolio-Website_AbhishekRanjan/ </h3>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -66,6 +62,10 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ranjanabhi07/ranjanabhi07/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3>👩‍💻 This is my portfolio :- https://ranjanabhi07.github.io/Portfolio-Website_AbhishekRanjan/ </h3>
 
 ###
 
