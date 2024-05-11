@@ -47,7 +47,13 @@ This is my portfolio :- https://ranjanabhi07.github.io/Portfolio-Website_Abhishe
 
 ###
 
-<img src="https://raw.githubusercontent.com/ranjanabhi07/ranjanabhi07/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
