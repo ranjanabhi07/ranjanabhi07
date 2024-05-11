@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, My name is Abhishek Ranjan and I am a Student at VIT, Bhopal. I am passionate about coding and development and I am always eager to learn new technologies and techniques. Through this portfolio, I showcase some of my past and current projects as well as my skills and experiences. Please feel free to contact me for any opportunities.</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
