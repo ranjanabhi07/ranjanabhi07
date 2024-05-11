@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1ktdpbQd7s47qt0_ox81gF5Pn4lxEkyIg/view?usp=sharing"  />
+<img align="right" height="150" src="https://github.com/account"  />
 
 ###
 
