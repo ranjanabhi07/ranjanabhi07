@@ -35,7 +35,7 @@
 </div>
 
 ###
-<h3 align="left"> Contact : </h3>
+<h3 align="left">👩‍💻 Contact : </h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h3> This is my portfolio :- https://ranjanabhi07.github.io/Portfolio-Website_AbhishekRanjan/ </h3>
+<h3>👩‍💻 This is my portfolio :- https://ranjanabhi07.github.io/Portfolio-Website_AbhishekRanjan/ </h3>
 
 ###
 
